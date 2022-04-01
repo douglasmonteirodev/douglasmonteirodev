@@ -1,4 +1,4 @@
-## Oiii eu sou a Douglas Monteiro, estudando para me tornar tornar um dev Fron-End
+## Oiii eu sou o Douglas Monteiro, atualamente estudando react.js
 <div align="center">
   <a href="https://github.com/douglasmonteirodev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
