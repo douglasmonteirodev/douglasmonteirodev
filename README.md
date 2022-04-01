@@ -1,7 +1,7 @@
 ## Oiii eu sou o Douglas Monteiro !!!
   <a href="https://github.com/douglasmonteirodev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmonteirodev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmonteirodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
