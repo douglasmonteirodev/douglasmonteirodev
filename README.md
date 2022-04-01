@@ -1,8 +1,8 @@
 ## Oiii eu sou a Douglas Monteiro, estudando para me tornar tornar um dev Fron-End
 <div align="center">
   <a href="https://github.com/douglasmonteirodev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmonteirodev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmonteirodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
