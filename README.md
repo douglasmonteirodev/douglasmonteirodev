@@ -1,7 +1,8 @@
-# Oiii meu nome é o Douglas Monteiro 🙋‍♂️
-### Tenho 24 anos e sou natural de Altamira-PA 🏡
-### Sou um curioso e amante de tecnologias em busca de novos conhecimentos 😎✌
-#### Atualmente estudando React 📚 !!!
+# Oiii meu nome é o Douglas 🙋‍😎🚀
+
+- `24 anos`
+- `Estudando React`
+- `Front End❤`
 
   <a href="https://github.com/douglasmonteirodev">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
