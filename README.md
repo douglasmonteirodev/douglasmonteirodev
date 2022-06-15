@@ -1,8 +1,8 @@
 # Oiii meu nome é o Douglas 🙋‍😎🚀
 
-- `24 anos`
-- `Estudando React`
-- `Front End❤`
+## `24 anos`
+## `Estudando React`
+## `Front End❤`
 
   <a href="https://github.com/douglasmonteirodev">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
