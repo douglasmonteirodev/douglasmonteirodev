@@ -1,7 +1,7 @@
 # Oiii meu nome é o Douglas 🙋‍😎🚀
 
-- 24 anos
-- Estudando React
+- Tenho 24 anos !!!
+- Atualment estudando React !!!
 - Front End ❤
 
   <a href="https://github.com/douglasmonteirodev">
