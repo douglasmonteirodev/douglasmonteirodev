@@ -1,4 +1,4 @@
-# Oiii meu nome é o Douglas 🙋‍😎🚀
+# Oiii meu nome é o Douglas 😎🚀
 
 - Tenho 24 anos !!!
 - Atualmente estudando React !!!
