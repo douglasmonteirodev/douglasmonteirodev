@@ -1,8 +1,4 @@
-# Oiii meu nome é o Douglas 😎🚀
-
-- Tenho 24 anos !!!
-- Atualmente estudando React !!!
-- Front End ❤
+# Oi meu nome é o Douglas 😎🚀
 
   <a href="https://github.com/douglasmonteirodev">
   <img height="163em" src="https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
