@@ -2,7 +2,7 @@
 
 <br  />
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=dark)
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasmonteirodev&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia
 
