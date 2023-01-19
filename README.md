@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Douglas Monteiro 🖐️
 
-<br  />
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
